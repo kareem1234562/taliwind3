@@ -1,0 +1,6 @@
+#kiko:hover #show{
+  
+    position: absolute;
+    left: -1060%;
+    transition: .5s;
+}
